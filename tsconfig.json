@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["es2015"],
+    "inlineSourceMap": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "declaration": true
+  },
+  "files": [
+    "scc.ts"
+  ]
+}
