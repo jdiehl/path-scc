@@ -4,7 +4,7 @@ Find all strongly-connected components in a graph structure. These can be used t
 
 ## Usage
 
-```
+```javascript
 const scc = require('scc').scc // or: import {scc} from 'scc'
 const nodes = [{ id: 'A' }, { id: 'B' }]
 const links = [{ source: 'A', target: 'B' }, { source: 'B', target: 'A' }]
