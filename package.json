@@ -1,12 +1,13 @@
 {
   "name": "path-scc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find all strongly-connected components in a graph structure.",
   "repository": {
     "type": "git",
     "url": "git@github.com:jdiehl/path-scc.git"
   },
   "main": "scc.js",
+  "types": "scc.d.ts",
   "scripts": {
     "build": "tsc"
   },
