@@ -1,6 +1,6 @@
 {
   "name": "path-scc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find all strongly-connected components in a graph structure.",
   "repository": {
     "type": "git",
